@@ -1,0 +1,20 @@
+body {
+    background-color: goldenrod;
+}
+
+.medium_pizza {
+    background-color: #C16200;
+}
+
+.large_pizza {
+    background-color: #650D1B;
+}
+
+
+.small_pizza {
+    background-color: #823200;
+}
+
+.contact_us {
+    background-color: brown;
+}
